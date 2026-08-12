@@ -146,21 +146,15 @@ HTML • CSS • JavaScript • JSON
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/aman-dudi-87733b327">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:your.adudirj185639@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
-
----
-
-## 💡 Favorite Quote
-
-> *"Every project begins with a problem worth solving."*
 
 ---
 
