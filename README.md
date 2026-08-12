@@ -62,22 +62,40 @@ Outside coding, I enjoy participating in sports, exploring new technologies, and
 
 # 🚀 Featured Projects
 
+## 😴 AI Drowsiness Detection System
+
+An AI-powered real-time driver monitoring system that detects signs of drowsiness using computer vision and facial landmark detection to improve road safety.
+
+### Features
+
+- 👀 Real-time Eye Aspect Ratio (EAR) detection
+- 😴 Drowsiness detection using facial landmarks
+- 🔔 Instant alert system (alarm)
+- 📹 Live webcam monitoring
+- ⚡ Fast and lightweight processing
+
+**Tech Stack**
+
+Python • OpenCV • MediaPipe • NumPy • Computer Vision
+
+---
+
 ## 🤖 AI-Powered Profile Analyzer
 
 An AI-powered web application that analyzes developer and student profiles to provide meaningful insights and recommendations.
 
 ### Features
 
-- AI-based profile analysis
-- Resume evaluation
-- Skill assessment
-- Career recommendations
-- Interactive dashboard
+- Resume Analysis
+- Skill Assessment
+- AI-powered Suggestions
+- Career Recommendations
+- Interactive Dashboard
 - Responsive UI
 
 **Tech Stack**
 
-HTML • CSS • JavaScript • Node.js • Express.js • AI APIs
+HTML • CSS • JavaScript • Node.js • Express.js • Gemini API
 
 ---
 
@@ -95,6 +113,7 @@ A role-based educational platform that enhances communication between students a
 - JSON Database
 - Local Storage
 
+
 **Tech Stack**
 
 HTML • CSS • JavaScript • JSON
@@ -104,11 +123,12 @@ HTML • CSS • JavaScript • JSON
 # 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aman-Rj18&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Rj18&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aman-Rj18&show_icons=true&theme=github_dark&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Rj18&layout=compact&theme=github_dark"/>
+
 </p>
-
 ---
 
 # 🔥 GitHub Streak
