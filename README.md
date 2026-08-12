@@ -120,14 +120,15 @@ HTML • CSS • JavaScript • JSON
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman-Rj18&theme=github_dark"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aman-Rj18&show_icons=true&theme=github_dark&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Rj18&layout=compact&theme=github_dark"/>
-
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aman-Rj18&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aman-Rj18&theme=github_dark"/>
 </p>
 ---
 
